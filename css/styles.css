@@ -1,0 +1,18 @@
+﻿
+/* Stylesheet for Repeated Realms */
+
+body{
+   background-color: #444444;
+   margin:0;
+}
+
+canvas {
+	cursor: none;
+}
+
+#wrapper {
+  border: 0px solid black;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
